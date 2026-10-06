@@ -1,0 +1,28 @@
+----------------------------------------------OOPs----------------------------------------------------------------------
+programming paradigm
+1.procedural
+2.OOP
+3.functional
+multi paradigm programming
+
+OOP
+1.class-
+        class is the blueprint for creating objects
+        eg: car x (toyota-model)
+
+2.object-
+         real-world entity that has same charateristics and behaviour as that of class
+
+ f string= f" "
+
+------------------------------------OOPs principle----------------------------------------------------------------------
+
+ 1.Class        :- blueprint
+ 2.Object       :- real World-instance of a class
+ 3.inheritance  :-
+ 4.polymorphism :- one method can be sent in many forms
+ 5.encapsulation:- wrapping up of data & methods into single unit
+ 6.abstraction  :- showing the essential details by hiding background details
+
+ inheritance
+ it is the capability of a class to inherit some common properties from the parent class
